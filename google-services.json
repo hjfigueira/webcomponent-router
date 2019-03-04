@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "112283279141",
+    "firebase_url": "https://projeto-teste-ad652.firebaseio.com",
+    "project_id": "projeto-teste-ad652",
+    "storage_bucket": "projeto-teste-ad652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112283279141:android:f8f32b74e58da992",
+        "android_client_info": {
+          "package_name": "com.helio.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112283279141-e9lip10qcpg47ac8fsb61dcckc1bjrm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKNm2r0VoBqbZcHSLffQMZaUBfBt1U4gI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
